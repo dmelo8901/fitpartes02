@@ -17,7 +17,7 @@ b {font-weight: bold !important;}
 body {background: none;}
 
 /* TOPO */
-#TopoGeral{width: 100%;background-image: url(pattern1.png);padding-bottom: 20px;padding-top: 10px;border-bottom: 1px dashed #d2d2d2;}
+#TopoGeral{width: 100%;background-image: url(http://dotstore.s3-sa-east-1.amazonaws.com/332/templates/desktop/arquivos/pattern1.png);padding-bottom: 20px;padding-top: 10px;border-bottom: 1px dashed #d2d2d2;}
 #Limite{min-width:1004px;}
 .fundoBranco {background-color: #ffffff;}
 
