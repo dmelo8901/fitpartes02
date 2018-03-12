@@ -24,7 +24,7 @@ body {background: none;}
 .headerLogin span {
     color: #666666;
     font-size: 14px;
-    background-image: url(loginico.png);
+    background-image: url(http://dotstore.s3-sa-east-1.amazonaws.com/332/templates/desktop/arquivos/loginico.png);
     background-repeat: no-repeat;
     background-position: left center;
     height: 30px;
@@ -88,7 +88,7 @@ body {background: none;}
     font-weight: bold;
 }
 .atendimentoHeader {
-    background-image: url('atendimentoico.png');
+    background-image: url('http://dotstore.s3-sa-east-1.amazonaws.com/332/templates/desktop/arquivos/atendimentoico.png');
     background-repeat: no-repeat;
     background-position: left center;
     height: 35px;
